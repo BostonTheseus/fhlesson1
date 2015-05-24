@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Splurty::Application.config.secret_key_base = 'cf2e6c66f65c59f14cdaef232cef57c7b7e551eb78304fb0242723b27879761f6a4d14939e3bfe170eb46ffc4a3a601fe09b06082ce57b2349c4f409bfb3ca98'
+Splurty::Application.config.secret_key_base = 'ef001d48443024522decb8b79a18cd8515af6aaad1dd25cb577e5fad1855461daac0267f17b301ac4d4f174dadb3744440f5839b9a8a39eeb591c991b94c45b7'
