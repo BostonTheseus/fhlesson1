@@ -4,6 +4,7 @@ class CreateQuotes < ActiveRecord::Migration
 
     	t.string :saying
     	t.string :author
+    	t.string :work
 
       t.timestamps
     end
